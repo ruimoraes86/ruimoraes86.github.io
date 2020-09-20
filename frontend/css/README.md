@@ -2,7 +2,7 @@
 sort: 3
 ---
 
-# Front-end
+# CSS
 
 Temas relacionados a CSS
 
