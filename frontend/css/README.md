@@ -1,8 +1,4 @@
----
-sort: 3
----
-
-# CSS
+# 3) CSS
 
 Temas relacionados a CSS
 

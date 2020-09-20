@@ -1,8 +1,4 @@
----
-sort: 1
----
-
-# Internet
+# 1) Internet
 
 Temas relacionados a Internet
 
