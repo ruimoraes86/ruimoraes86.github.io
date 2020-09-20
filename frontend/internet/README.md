@@ -2,8 +2,8 @@
 sort: 1
 ---
 
-# Front-end
+# Internet
 
-Temas relacionados a front-end
+Temas relacionados a Internet
 
 {% include list.liquid %}
